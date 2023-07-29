@@ -12,9 +12,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS
 
 ## Author
 
