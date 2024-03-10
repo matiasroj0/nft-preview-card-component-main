@@ -8,7 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: https://delightful-melomakarona-18895d.netlify.app/
+- Live Site URL: https://matiasrojo-nft-preview-card-component.netlify.app/
 
 ### Built with
 
